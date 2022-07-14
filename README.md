@@ -6,12 +6,21 @@
 </p>
 
 
+
+
+
 **Descrição**
 
 Um jogo simples e divertido o suficiente para qualquer pessoa.  
 O objetivo do jogo é socorrer o amigo enquanto tenta defender ele de inimigos.Quando a energia do jogador acaba é Game Over.
 
 Projeto proposto pela [DigitalInnovationOne][dio]
+
+
+
+
+![Video do Jogo](imgs/jogoregate.gif)
+
 
 ### Layout
 
